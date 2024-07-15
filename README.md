@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Integral05 👋
 
-<!--
-**integral05/integral05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 I'm currently diving into the world of Machine Learning and Data Science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently reading: *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron.
+
+🤖 Interested in: AI & ML, Data Science.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=integral05&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=integral05&layout=compact&theme=radical)
